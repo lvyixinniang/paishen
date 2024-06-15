@@ -1,3 +1,5 @@
+# 创建了 salary.in 和 salary.out文件
+
 fr = open("salary.in",'r',encoding='utf-8')
 fw = open("salary.out",'w',encoding='utf-8')
 lst = []
